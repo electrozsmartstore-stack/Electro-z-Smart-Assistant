@@ -1,0 +1,5 @@
+{
+  "name": "ELECTROZ Smart Assistant",
+  "description": "An integrated smart home application that combines EWELLINK, TUYA, and ALEXA into a single, stunning user interface. This app provides a true controller for all three platforms, allowing users to log in and manage their devices, lighting, and voice controls.",
+  "requestFramePermissions": []
+}
